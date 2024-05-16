@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hjxhjxx
+- 👋 Hi, I’m @hjxhjxx (Jinyi Li)
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Any Project!
 - 📫 How to reach me: Via my email (on my GitHub page)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love to go around GitHub and star projects!
 
 <p align="center">
