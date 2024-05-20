@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hjxhjxx (Jinyi Li)
+- 👋 Hi, I’m @hjxhjxx (Jinyi Li) - a NYU sophomore.
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Any Project!
